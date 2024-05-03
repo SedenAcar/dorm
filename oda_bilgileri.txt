@@ -1,0 +1,10 @@
+A,300,True
+B,655,False
+C,889,True
+D,554,True
+E,213,True
+F,236,False
+G,232,True
+I,265,True
+J,232,False
+K,214,True
